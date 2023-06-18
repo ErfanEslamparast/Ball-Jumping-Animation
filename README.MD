@@ -1,0 +1,1 @@
+The tennis ball goes up and down and spins smoothly animation and also its shadow resize when it goes up and down
